@@ -21,7 +21,7 @@ export default function Home() {
                     </div>
                     <div>
                         <FormulaInput />
-                        <p className="p-2 text-xl">Unfortunately that's all I did in 6 hours.</p>
+                        <p className="p-2 text-xl">Unfortunately that&#39;s all I did in 6 hours.</p>
                         <p className="p-2 text-xl">Thank you for this opportunity.</p>
                     </div>
                 </Table>
